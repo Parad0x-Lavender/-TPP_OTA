@@ -1,0 +1,10 @@
+> Rom = The Pixel Project
+> Build Type = Unofficial 
+> Device = Redmi Note 7 (Lavender)
+> Maintainer = Parad0x
+  
+> Device Specific Changelog:
+
+# 15/10/24
+ - October security patch
+ - Merged latest San Kernel
